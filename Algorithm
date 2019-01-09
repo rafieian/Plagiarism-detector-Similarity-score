@@ -1,0 +1,34 @@
+Input: Document Original ,Document Suspect
+Output: a similarity bewteen Document Original and Document Suspect
+
+ select Document Original ;
+ for each word i in String O {
+//extra words removal
+If compare(word i ,extrawords)==true then Remove word i ;}
+String O(word i )=Document Original ;
+}
+Void find repeats();
+//calculate and find nmber of repeats of each word and put in Result i .
+for each word i in String O {
+//find all synsets of Words in Original Doc
+Void sysnset();// find all synsets of String
+}
+for each word i in String O {
+Void removeDupsSorted();}
+// Remove all duplicates of each word from string;
+//------------------------
+ select Document Suspect ;
+ String S(word i )=Document Suspect ;
+
+for each word i in String S {
+//extra words removal
+If compare(word i ,extrawords)==true then Remove word i ;}
+}
+Void find repeats();
+//calculate and find nmber of repeats of each word and put in Result j .
+for each word i in String S {
+//find all synsets of Words in Original Doc
+Void sysnset();// find all synsets of String
+}
+for each word i in String S {
+Void removeDupsSorted();}
