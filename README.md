@@ -1,7 +1,7 @@
 # Plagiarism-detector-Similarity-score
 This Project uses semantics to detect the similarity between two articles.
 
-1-Downlaod and install FarsNet API and indices:
+1-Download and install FarsNet API and indices:
 http://farsnet.nlp.sbu.ac.ir/Site3/Modules/Public/Default.jsp
 
 2-Add libraries to prject.
