@@ -32,3 +32,14 @@ Void sysnset();// find all synsets of String
 }
 for each word i in String S {
 Void removeDupsSorted();}
+// Start of calculating unity:
+for (till end of string ) and string S){
+if (string O intersec string S) then Resultx=Ri+Rj;  //Ri= number of repeats wordi in a Doc
+Result Overal1 = Result overal +Resultx;
+}
+for (till end of string ) and string S){
+Resultx=Ri+Rj;  
+Result Overal2 = Result overal +Resultx;
+}
+Similarity=Resultoveral1/Resultoveral2.
+//END
